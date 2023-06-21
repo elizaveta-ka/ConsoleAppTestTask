@@ -1,0 +1,17 @@
+/Users/elizavetakabak/Projects/ConsoleApp/ConsoleAppTestTask/bin/Debug/net7.0/ConsoleAppTestTask
+/Users/elizavetakabak/Projects/ConsoleApp/ConsoleAppTestTask/bin/Debug/net7.0/ConsoleAppTestTask.deps.json
+/Users/elizavetakabak/Projects/ConsoleApp/ConsoleAppTestTask/bin/Debug/net7.0/ConsoleAppTestTask.runtimeconfig.json
+/Users/elizavetakabak/Projects/ConsoleApp/ConsoleAppTestTask/bin/Debug/net7.0/ConsoleAppTestTask.dll
+/Users/elizavetakabak/Projects/ConsoleApp/ConsoleAppTestTask/bin/Debug/net7.0/ConsoleAppTestTask.pdb
+/Users/elizavetakabak/Projects/ConsoleApp/ConsoleAppTestTask/obj/Debug/net7.0/ConsoleAppTestTask.csproj.AssemblyReference.cache
+/Users/elizavetakabak/Projects/ConsoleApp/ConsoleAppTestTask/obj/Debug/net7.0/ConsoleAppTestTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elizavetakabak/Projects/ConsoleApp/ConsoleAppTestTask/obj/Debug/net7.0/ConsoleAppTestTask.AssemblyInfoInputs.cache
+/Users/elizavetakabak/Projects/ConsoleApp/ConsoleAppTestTask/obj/Debug/net7.0/ConsoleAppTestTask.AssemblyInfo.cs
+/Users/elizavetakabak/Projects/ConsoleApp/ConsoleAppTestTask/obj/Debug/net7.0/ConsoleAppTestTask.csproj.CoreCompileInputs.cache
+/Users/elizavetakabak/Projects/ConsoleApp/ConsoleAppTestTask/obj/Debug/net7.0/ConsoleAppTestTask.dll
+/Users/elizavetakabak/Projects/ConsoleApp/ConsoleAppTestTask/obj/Debug/net7.0/refint/ConsoleAppTestTask.dll
+/Users/elizavetakabak/Projects/ConsoleApp/ConsoleAppTestTask/obj/Debug/net7.0/ConsoleAppTestTask.pdb
+/Users/elizavetakabak/Projects/ConsoleApp/ConsoleAppTestTask/obj/Debug/net7.0/ConsoleAppTestTask.genruntimeconfig.cache
+/Users/elizavetakabak/Projects/ConsoleApp/ConsoleAppTestTask/obj/Debug/net7.0/ref/ConsoleAppTestTask.dll
+/Users/elizavetakabak/Projects/ConsoleApp/ConsoleAppTestTask/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/elizavetakabak/Projects/ConsoleApp/ConsoleAppTestTask/obj/Debug/net7.0/ConsoleAppTestTask.csproj.CopyComplete
